@@ -2,7 +2,7 @@
 
 ## Overview
 
-Logo on The Go a Node.js command-line application that allows users to generate a simple logo for their projects. It prompts the user to select a color and shape, provide text for the log, and saves the generated SVG to a .svg file.
+Logo on The Go is a Node.js command-line application that allows users to generate a simple logo for their projects. It prompts the user to select a color and shape, provide text for the log, and saves the generated SVG to a .svg file.
 
 ## Instructions
 
