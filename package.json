@@ -1,0 +1,16 @@
+{
+    "name": "SVG-Logo-10",
+    "version": "1.0.0",
+    "description": "A command line SVG generator. Complete the prompts to generate your own SVG file",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
