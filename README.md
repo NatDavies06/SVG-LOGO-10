@@ -1,12 +1,12 @@
-# SVG-LOGO-10
+# Logo a Go
 
 ## Overview
 
-The SVG Logo Maker is a Node.js command-line application that allows users to generate a simple logo for their projects. It prompts the user to select a color and shape, provide text for the log, and saves the generated SVG to a .svg file.
+Logo a Go is a Node.js command-line application that allows users to generate a simple logo for their projects. It prompts the user to select a color and shape, provide text for the log, and saves the generated SVG to a .svg file.
 
 ## Instructions
 
-To get started with the SVG Logo Maker, follow these steps:
+To get started with the svg generater, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install dependencies by running 'npm install'.
