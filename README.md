@@ -26,4 +26,5 @@ The 'shapes.test.js' file contains Jest test for the shapes classes. These test 
 
 ## Walkthrough
 
-Coming Soon!
+https://github.com/NatDavies06/SVG-LOGO-10/assets/153016845/c158babb-f6f9-4d29-a487-88ee38e635bd
+
