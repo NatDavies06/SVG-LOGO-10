@@ -26,6 +26,10 @@ function writeToFile(fileName, answers) {
         shapeChoice = new Circle();
         svgString += `<circle cx="150" cy="115" r="80" fill="${answers.shapeBackgroundColor}"/>`;
     }
+
+    // Add text for SVG logo
+    svgString += `<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="${answers.textColor}" font-size="24">${answers.text}</text>`;
+
     // Close group tag
     svgString += "</g>";
     // CloseSVG tag
